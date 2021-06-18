@@ -75,8 +75,8 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Customer"
-                        android:textColor="#5972FF"
+                        android:text="Customers"
+                        android:textColor="#D56340"
                         android:textSize="15dp"
                         android:textStyle="bold"
                         />
@@ -108,7 +108,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Send Money"
-                        android:textColor="#5972FF"
+                        android:textColor="#D56340"
                         android:textSize="15dp"
                         android:textStyle="bold"
                         />
@@ -152,7 +152,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Transaction History"
-                        android:textColor="#5972FF"
+                        android:textColor="#D56340"
                         android:textSize="12dp"
                         android:textStyle="bold"
                         />
